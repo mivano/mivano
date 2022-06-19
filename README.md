@@ -7,11 +7,11 @@ My heart is with the technique although I'm also capable of managing different t
 ## Latest blog posts
 
 <!--START_SECTION:feed-->
+* [Use different rate-limiting options in Azure API Management for business and non-business hours](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;06&#x2F;18&#x2F;use-different-rate-limiting-options-in-azure-api-management-for-business-and-non-business-hours.html)
 * [Generate documentation using Doctave and host it on GitHub Pages](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;01&#x2F;18&#x2F;generate-documentation-using-doctave-and-host-it-on-github-pages.html)
 * [Build a GitHub Actions Marketplace using the Github CLI, Jekyll and Tailwind CSS](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2021&#x2F;11&#x2F;21&#x2F;build-a-github-actions-marketplace-using-github-cli-jekyll-and-tailwind-css.html)
 * [Use Mermaid diagrams with images inside your documentation using GitHub](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2021&#x2F;11&#x2F;08&#x2F;use-mermaid-diagrams-with-images-inside-your-documentation-using-github.html)
 * [Using GitHub Environments approvals without the ability to self approve](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2021&#x2F;09&#x2F;12&#x2F;using-github-environments-approvals-without-the-ability-to-self-approve.html)
-* [Annotate a release in Application Insights using GitHub Actions with Bash](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2021&#x2F;07&#x2F;11&#x2F;annotate-a-release-in-application-insights-using-github-actions-with-bash.html)
 <!--END_SECTION:feed-->
 
 <!--
