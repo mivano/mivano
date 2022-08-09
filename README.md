@@ -7,11 +7,11 @@ My heart is with the technique although I'm also capable of managing different t
 ## Latest blog posts
 
 <!--START_SECTION:feed-->
+* [Use job summaries in GitHub Actions to generate a list of releases](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;08&#x2F;08&#x2F;use-job-summaries-in-github-actions-to-generate-a-list-of-releases.html)
 * [Trace and log an amazon correlation id retrieved from another party in API Management](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;07&#x2F;16&#x2F;trace-and-log-an-amazon-correlation-id-retrieved-from-another-party-in-api-management.html)
 * [Use Bicep to add rate limit representation to an API Management operation](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;07&#x2F;15&#x2F;use-bicep-to-add-rate-limit-representation-to-an-api-management-operation.html)
 * [Remove conflict (409) failures from Application Insights when using CreateIfNotExistsAsync calls](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;07&#x2F;14&#x2F;remove-conflict-409-failures-from-application-insights-when-using-createifnotexistsasync-calls.html)
 * [Use different rate-limiting options in Azure API Management for business and non-business hours](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;06&#x2F;18&#x2F;use-different-rate-limiting-options-in-azure-api-management-for-business-and-non-business-hours.html)
-* [Generate documentation using Doctave and host it on GitHub Pages](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;01&#x2F;18&#x2F;generate-documentation-using-doctave-and-host-it-on-github-pages.html)
 <!--END_SECTION:feed-->
 
 <!--
