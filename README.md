@@ -13,11 +13,11 @@ src="https://img.shields.io/twitter/follow/mivano?logo=twitter&style=for-the-bad
 ## Latest blog posts
 
 <!--START_SECTION:feed-->
+* [Different ways to return a collection from a REST API](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;09&#x2F;05&#x2F;different-ways-to-return-a-collection-from-a-rest-api.html)
+* [Monitoring options for API Management](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;08&#x2F;25&#x2F;monitoring-options-for-api-management.html)
+* [How to allow teams to use API Management while staying secure and compliant](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;08&#x2F;23&#x2F;how-to-allow-teams-to-use-api-management-while-staying-secure-and-compliant.html)
+* [What is the QUERY HTTP verb all about](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;08&#x2F;19&#x2F;what-is-the-query-http-verb-all-about.html)
 * [Use job summaries in GitHub Actions to generate a list of releases](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;08&#x2F;08&#x2F;use-job-summaries-in-github-actions-to-generate-a-list-of-releases.html)
-* [Trace and log an amazon correlation id retrieved from another party in API Management](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;07&#x2F;16&#x2F;trace-and-log-an-amazon-correlation-id-retrieved-from-another-party-in-api-management.html)
-* [Use Bicep to add rate limit representation to an API Management operation](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;07&#x2F;15&#x2F;use-bicep-to-add-rate-limit-representation-to-an-api-management-operation.html)
-* [Remove conflict (409) failures from Application Insights when using CreateIfNotExistsAsync calls](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;07&#x2F;14&#x2F;remove-conflict-409-failures-from-application-insights-when-using-createifnotexistsasync-calls.html)
-* [Use different rate-limiting options in Azure API Management for business and non-business hours](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;06&#x2F;18&#x2F;use-different-rate-limiting-options-in-azure-api-management-for-business-and-non-business-hours.html)
 <!--END_SECTION:feed-->
 
 <!--
