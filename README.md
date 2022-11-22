@@ -13,11 +13,11 @@ src="https://img.shields.io/twitter/follow/mivano?logo=twitter&style=for-the-bad
 ## Latest blog posts
 
 <!--START_SECTION:feed-->
+* [Debug Azure Functions with timer triggers locally](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;11&#x2F;21&#x2F;debug-azure-functions-with-timer-triggers-locally.html)
 * [Different ways to return a collection from a REST API](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;09&#x2F;05&#x2F;different-ways-to-return-a-collection-from-a-rest-api.html)
 * [Monitoring options for API Management](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;08&#x2F;25&#x2F;monitoring-options-for-api-management.html)
 * [How to allow teams to use API Management while staying secure and compliant](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;08&#x2F;23&#x2F;how-to-allow-teams-to-use-api-management-while-staying-secure-and-compliant.html)
 * [What is the QUERY HTTP verb all about](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;08&#x2F;19&#x2F;what-is-the-query-http-verb-all-about.html)
-* [Use job summaries in GitHub Actions to generate a list of releases](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;08&#x2F;08&#x2F;use-job-summaries-in-github-actions-to-generate-a-list-of-releases.html)
 <!--END_SECTION:feed-->
 
 <!--
