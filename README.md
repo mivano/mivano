@@ -13,11 +13,11 @@ src="https://img.shields.io/twitter/follow/mivano?logo=twitter&style=for-the-bad
 ## Latest blog posts
 
 <!--START_SECTION:feed-->
+* [Visualizing Azure Costs with MermaidJS and GitHub Actions: An In-Depth Guide](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;04&#x2F;25&#x2F;visualizing-azure-costs-with-mermaidjs-and-github-actions-an-in-depth-guide.html)
 * [Maximizing Your Azure Cost Savings: Strategies, Tools, and License Benefits](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;04&#x2F;08&#x2F;maximizing-your-azure-cost-savings-strategies-tools-and-license-benefits.html)
 * [Optimizing Remote Work with GitHub: The Power of Asynchronous Communication](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;04&#x2F;01&#x2F;optimizing-remote-work-with-github-the-power-of-asynchronous-communication.html)
 * [Ensuring API Compatibility with OpenAPI Comparator and GitHub Workflows](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;03&#x2F;14&#x2F;ensuring-api-compatibility-with-openapi-comparator-and-github-workflows.html)
 * [Debug Azure Functions with timer triggers locally](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;11&#x2F;21&#x2F;debug-azure-functions-with-timer-triggers-locally.html)
-* [Different ways to return a collection from a REST API](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2022&#x2F;09&#x2F;05&#x2F;different-ways-to-return-a-collection-from-a-rest-api.html)
 <!--END_SECTION:feed-->
 
 <!--
