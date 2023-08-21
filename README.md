@@ -13,11 +13,11 @@ src="https://img.shields.io/twitter/follow/mivano?logo=twitter&style=for-the-bad
 ## Latest blog posts
 
 <!--START_SECTION:feed-->
+* [From Full Stack to Full Circle: Embracing the Cyclical Nature of Software Development](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;08&#x2F;20&#x2F;full-stack-full-circle-embracing-cyclical-nature-software-development.html)
 * [Direct download from Azure Blob storage using Content-Disposition header to set the filename](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;08&#x2F;12&#x2F;direct-download-from-azure-blob-storage-using-contentdisposition-header-to-set-the-filename.html)
 * [Visualizing Azure Costs with MermaidJS and GitHub Actions: An In-Depth Guide](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;04&#x2F;25&#x2F;visualizing-azure-costs-with-mermaidjs-and-github-actions-an-in-depth-guide.html)
 * [Maximizing Your Azure Cost Savings: Strategies, Tools, and License Benefits](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;04&#x2F;08&#x2F;maximizing-your-azure-cost-savings-strategies-tools-and-license-benefits.html)
 * [Optimizing Remote Work with GitHub: The Power of Asynchronous Communication](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;04&#x2F;01&#x2F;optimizing-remote-work-with-github-the-power-of-asynchronous-communication.html)
-* [Ensuring API Compatibility with OpenAPI Comparator and GitHub Workflows](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;03&#x2F;14&#x2F;ensuring-api-compatibility-with-openapi-comparator-and-github-workflows.html)
 <!--END_SECTION:feed-->
 
 <!--
