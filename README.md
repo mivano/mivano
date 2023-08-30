@@ -13,11 +13,11 @@ src="https://img.shields.io/twitter/follow/mivano?logo=twitter&style=for-the-bad
 ## Latest blog posts
 
 <!--START_SECTION:feed-->
+* [Sending Emails On Behalf of Someone Else in SaaS Solutions Using SendGrid and .NET](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;08&#x2F;29&#x2F;sending-emails-behalf-saas-solutions-sendgrid-net.html)
 * [Making API calls more resilient](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;08&#x2F;28&#x2F;making-api-calls-resilient.html)
 * [Retrieving the active Azure Subscription ID from the AZ CLI Context](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;08&#x2F;26&#x2F;retrieving-active-azure-subscription-id-az-cli-context.html)
 * [How to get a token to access the Azure cost API](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;08&#x2F;22&#x2F;token-access-azure-cost-api.html)
 * [From Full Stack to Full Circle: Embracing the Cyclical Nature of Software Development](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;08&#x2F;20&#x2F;full-stack-full-circle-embracing-cyclical-nature-software-development.html)
-* [Direct download from Azure Blob storage using Content-Disposition header to set the filename](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;08&#x2F;12&#x2F;direct-download-from-azure-blob-storage-using-contentdisposition-header-to-set-the-filename.html)
 <!--END_SECTION:feed-->
 
 <!--
