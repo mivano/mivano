@@ -13,11 +13,11 @@ src="https://img.shields.io/twitter/follow/mivano?logo=twitter&style=for-the-bad
 ## Latest blog posts
 
 <!--START_SECTION:feed-->
+* [Apply caching when restoring NuGet packages using a GitHub hosted runner](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;09&#x2F;22&#x2F;apply-caching-restoring-nuget-packages-github-hosted-runner.html)
 * [Sending Emails On Behalf of Someone Else in SaaS Solutions Using SendGrid and .NET](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;08&#x2F;29&#x2F;sending-emails-behalf-saas-solutions-sendgrid-net.html)
 * [Making API calls more resilient](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;08&#x2F;28&#x2F;making-api-calls-resilient.html)
 * [Retrieving the active Azure Subscription ID from the AZ CLI Context](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;08&#x2F;26&#x2F;retrieving-active-azure-subscription-id-az-cli-context.html)
 * [How to get a token to access the Azure cost API](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;08&#x2F;22&#x2F;token-access-azure-cost-api.html)
-* [From Full Stack to Full Circle: Embracing the Cyclical Nature of Software Development](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;08&#x2F;20&#x2F;full-stack-full-circle-embracing-cyclical-nature-software-development.html)
 <!--END_SECTION:feed-->
 
 <!--
