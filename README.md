@@ -13,11 +13,11 @@ src="https://img.shields.io/twitter/follow/mivano?logo=twitter&style=for-the-bad
 ## Latest blog posts
 
 <!--START_SECTION:feed-->
+* [Dynamic IIS Server Deployments with GitHub Actions](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2025&#x2F;06&#x2F;02&#x2F;dynamic-iis-server-deployments-github-actions.html)
 * [A Practical Approach to Hiring Great Full-Stack Engineers](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2024&#x2F;12&#x2F;28&#x2F;practical-approach-hiring-great-full-stack-engineers.html)
 * [Streamlining Helpdesk Operations: Leveraging GitHub Issues with Custom Workflows and Templates](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2024&#x2F;01&#x2F;02&#x2F;streamlining-helpdesk-operations-leveraging-github-issues-custom-workflows-templates.html)
 * [Apply caching when restoring NuGet packages using a GitHub hosted runner](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;09&#x2F;22&#x2F;apply-caching-restoring-nuget-packages-github-hosted-runner.html)
 * [Sending Emails On Behalf of Someone Else in SaaS Solutions Using SendGrid and .NET](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;08&#x2F;29&#x2F;sending-emails-behalf-saas-solutions-sendgrid-net.html)
-* [Making API calls more resilient](https:&#x2F;&#x2F;www.mindbyte.nl&#x2F;2023&#x2F;08&#x2F;28&#x2F;making-api-calls-resilient.html)
 <!--END_SECTION:feed-->
 
 <!--
